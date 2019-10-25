@@ -1,4 +1,4 @@
-# dicas-job - projeto-melo
+# dicas-job - projeto-meli
 
 ### LINKS:
 
