@@ -3,7 +3,9 @@
 ### LINKS:
 
 https://github.com/senai-desenvolvimento/2s2019-t2-sprint-2-backend/tree/master/exercicios
+
 https://www.apinfo.com/apinfo/inc/list4.cfm
+
 https://github.com/felipefialho/frontend-challenges
 
 Dica no linkedin:
