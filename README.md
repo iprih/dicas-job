@@ -14,8 +14,6 @@ https://github.com/felipefialho/frontend-challenges
 ### Dica no linkedin:
 Ao abrir a vaga veja nos resultados as competencias que se encaixam no seu perfil e vá no perfil e adiciona a competencia com o mesmo nome que a empresa escreveu.
 
-JavaScript e TypeScript - Type é tipo um java mais tipado
-
 
 ### Siglas geralmente usadas nas vagas:
 
