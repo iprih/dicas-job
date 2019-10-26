@@ -2,13 +2,16 @@
 
 ### LINKS:
 
+### Desafios para treinar:
 https://github.com/senai-desenvolvimento/2s2019-t2-sprint-2-backend/tree/master/exercicios
 
+### vagas, descrições
 https://www.apinfo.com/apinfo/inc/list4.cfm
 
+### desafios, simulações de provas do mercado de trabalho
 https://github.com/felipefialho/frontend-challenges
 
-Dica no linkedin:
+### Dica no linkedin:
 Ao abrir a vaga veja nos resultados as competencias que se encaixam no seu perfil e vá no perfil e adiciona a competencia com o mesmo nome que a empresa escreveu.
 
 JavaScript e TypeScript - Type é tipo um java mais tipado
