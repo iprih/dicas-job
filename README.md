@@ -9,7 +9,7 @@ https://www.apinfo.com/apinfo/inc/list4.cfm
 https://github.com/felipefialho/frontend-challenges
 
 Dica no linkedin:
-Ao abrir a vaga veja nos resultados as competencias que se encaixam no seu perfil e vá no perfil e adiciona a com o nome da competencia que a empresa escreveu.
+Ao abrir a vaga veja nos resultados as competencias que se encaixam no seu perfil e vá no perfil e adiciona a competencia com o mesmo nome que a empresa escreveu.
 
 JavaScript e TypeScript - Type é tipo um java mais tipado
 
@@ -26,9 +26,9 @@ front
 mobile
 desktop
 
-encerrar ciclos e construir novos
+devemos encerrar ciclos e construir novos :)
 
-control k t <- muda tema do vscode
+control + k + t <- muda tema do vscode
 
 ### crud
 create - post
@@ -36,11 +36,13 @@ read - get
 update - put
 delete - delete
 
-apidoc - cria documentação automatica
+apidoc - cria documentação automatica (necessário instalação e configuração)
+
 
 //
 
 ### O projeto final
-Desenvolver uma rota de cada (crud) - dia 2/11 reuniao as 10
+Desenvolver uma rota de cada (crud) / exemplo-modelo do projeto - 02/11 reuniao/call as 10h da manhã com Jhon Helenão.
+
 
 
